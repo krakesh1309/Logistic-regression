@@ -1,18 +1,19 @@
-Logistic Regression for Classification
-Overview
+## Logistic Regression for Classification
+## Overview
+
 This repository contains code and documentation for implementing logistic regression, a fundamental algorithm for binary classification tasks. Logistic regression is a linear model used for predicting the probability of a binary outcome based on one or more predictor variables.
 
-Contents
+## Contents
 
-Notebooks: Jupyter notebooks demonstrating logistic regression implementation and usage.
+**Notebooks**: Jupyter notebooks demonstrating logistic regression implementation and usage.
 
-Scripts: Python scripts for training, evaluating, and using logistic regression models.
+**Scripts**: Python scripts for training, evaluating, and using logistic regression models.
 
-Data: Sample datasets used for training and testing logistic regression models.
+**Data**: Sample datasets used for training and testing logistic regression models.
 
-Documentation: Detailed documentation on logistic regression theory, implementation details, and usage instructions.
+**Documentation**: Detailed documentation on logistic regression theory, implementation details, and usage instructions.
 
-Requirements
+## Requirements
 
 Python 3.x
 
